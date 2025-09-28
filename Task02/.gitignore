@@ -1,0 +1,24 @@
+# Database files
+*.db
+*.sql
+*.sqlite
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary files
+run_etl.py
+check_db.py
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Binary files
+*.exe
